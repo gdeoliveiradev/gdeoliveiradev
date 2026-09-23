@@ -39,13 +39,6 @@ Manager and tech enthusiast building a global career in Data Engineering. Curren
 
 ---
 
-## 📈 GitHub Stats
-<p align="left">
-  <img src="https://vercel.app" alt="Gabriel's GitHub Stats" height="150" />
-</p>
-
----
-
 ## 📫 Connect with me
-- 💼 [LinkedIn](www.linkedin.com/in/gdeoliveiradev)
+- 💼 [LinkedIn](https://www.linkedin.com/in/gdeoliveiradev/)
 - 🌐 [Portfolio](https://gdeoliveiradev.github.io/portfolio-gabriel-antunes/)
