@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there, I'm Gabriel de Oliveira! 👋
 
-<!--
-**gdeoliveiradev/gdeoliveiradev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Manager and tech enthusiast building a global career in Data Engineering. Currently balancing complex high-end real estate operations with technical software development structures.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💼 **Tech Intern** at **SERPRO** (Brazil's largest government IT enterprise) starting Oct 2026.
+- 🎓 Studying **Analysis and Systems Development** at UNINTER.
+- 🎯 Deeply focused on mastering the modern data stack: **SQL, Python, Spark, and Cloud Computing**.
+- 🌍 Actively advancing English fluency targeting international tech roles and global scalability.
+- 📍 Based in Brasília, DF, Brazil.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools (Actively Learning & Developing)
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://techicons.org" width="48" height="48" alt="Python" />
+      <br />Python
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.org" width="48" height="48" alt="PostgreSQL" />
+      <br />PostgreSQL
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.org" width="48" height="48" alt="Git" />
+      <br />Git
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.org" width="48" height="48" alt="AWS" />
+      <br />AWS
+    </td>
+    <td align="center" width="96">
+      <img src="https://techicons.org" width="48" height="48" alt="Azure" />
+      <br />Azure
+    </td>
+  </tr>
+</table>
+
+---
+
+## 📈 GitHub Stats
+<p align="left">
+  <img src="https://vercel.app" alt="Gabriel's GitHub Stats" height="150" />
+</p>
+
+---
+
+## 📫 Connect with me
+- 💼 [LinkedIn](www.linkedin.com/in/gdeoliveiradev)
+- 🌐 [Portfolio](https://gdeoliveiradev.github.io/portfolio-gabriel-antunes/)
